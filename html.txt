@@ -1,0 +1,13 @@
+<!Doctype html>
+<html>
+  <header>
+    <link rel="stylesheet" href="style.css"/>
+  </header>
+  <body>
+<div class="main">
+   <div class="bg">
+   <div class="text">
+      Temporary
+   </div>
+     </body>
+</html>
